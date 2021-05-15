@@ -1,0 +1,22 @@
+<style>
+    .wrapper{
+        display:grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 5em;
+        grid-auto-rows: 100px;
+    }
+
+    .wrapper > div{
+        padding: 1em;
+    }
+</style>
+    
+<div class="wrapper">
+    <div>
+        <h1>{{fn}}</h1>
+    </div>
+    
+    <div>
+        <h1>{{ln}}</h1>
+    </div>
+</div>
