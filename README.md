@@ -1,2 +1,2 @@
 # flask-playground
- Just a repo with basic flask apps and functions
+Just a (hopefully regularly updated) repo with basic flask apps and functions for learning purposes
